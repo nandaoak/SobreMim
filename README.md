@@ -1,7 +1,8 @@
 <h1 align="center"> Fernanda Silva Messias</h1>
 
 
-![Badge em  desenvolvimento](https://img.shields.io/badge/Sobre%20Minha%20Tragetória%20profissional-8A2BE2)
+
+![Badge em  desenvolvimento](https://img.shields.io/badge/Analista%20de%20Sistemas%20e%20Desenvolvedora%20Java-8A2BE2)
 
 
 
