@@ -17,8 +17,8 @@
 - `GitHub`: Entendimento de funcionamento da ferramenta GitHub.
 - `Google Drive`: Criação de pastas e subpastas.
 - `TOTVS`: Habilidades de utilização do sistema Rm Classis Net, RM Fluxos, Fluig, entre outros.
--  `HTML,CSS e JavaScript`: Entendimento da principal funcionalidades.
--  `Excel`: Preenchimento de forma inteligente.
+- `HTML,CSS e JavaScript`: Entendimento da principal funcionalidades.
+- `Excel`: Preenchimento de forma inteligente.
 
 ![Sobre mim](https://github.com/user-attachments/assets/3844d99e-013f-4c28-8abc-5780769f317a)
 
