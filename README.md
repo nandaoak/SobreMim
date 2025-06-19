@@ -1,10 +1,6 @@
 <h1 align="center"> Fernanda Silva Messias</h1>
 
 
-
-![Badge em  desenvolvimento](https://img.shields.io/badge/Analista%20de%20Sistemas%20e%20Desenvolvedora%20Java-8A2BE2)
-
-
 # :hammer: Principais SoftSkills
 - `Organização`: Seguindo a organização de pastas no sistema e de bom entendimento para terceiros.
 - `Comunicação`: Comunicação em excelencia para clientes internos e externos.
